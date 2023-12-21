@@ -14,6 +14,7 @@ public class Main {
         // Accedeix als objectes a l'array
         for (Persona persona : persones) {
             System.out.println("Nom: " + persona.getNom() + ", Edat: " + persona.getEdat());
+            System.out.println("Harsh");
         }
     }
 }
